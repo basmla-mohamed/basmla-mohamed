@@ -45,7 +45,6 @@ My approach to development goes beyond writing code. I enjoy understanding how i
 
 I see every project as an opportunity to refine my skills, experiment with ideas, and develop a deeper understanding of modern web technologies.
 
----
 
 <div align="center">
 
@@ -118,39 +117,82 @@ Learning new technologies, refining solutions, and improving through hands-on pr
 <!-- =============== END ABOUT ME =============== -->
 
 <!-- ======================================================= -->
-<!--                    INTRODUCTION                         -->
+<!--                  DEVELOPER INTRO                       -->
 <!-- ======================================================= -->
-
-## `01` Beyond the Interface 
-
-<img align="right"  width="35%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
-
-Hey there! I'm **Basmala Mohamed** 
-
-A Front-End Developer passionate about crafting **modern, responsive, and interactive web experiences**.
-
-For me, web development is more than writing code. It's about transforming ideas into interfaces that feel intuitive, look polished, and make every interaction meaningful.
-
-I enjoy exploring new technologies, experimenting with creative layouts, solving coding challenges, and turning what I learn into real projects.
-
-- I care about visual details and user experience.
-- I build responsive interfaces with modern front-end tools.
-- I enjoy bringing websites to life with interactive functionality.
-- I'm developing my skills in TypeScript and Angular.
-- I believe every project should teach me something new.
-- I'm interested in collaboration and open-source contributions.
-
-<br clear="right"/>
 
 <div align="center">
 
-### `Ideas → Design → Code → Experience`
+<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=gradient" width="100%" alt=""/>
 
-**I don't just want to build websites that work. I want to build experiences worth exploring.**
+# `01` — BEYOND THE INTERFACE ✦
+
+### BASMALA MOHAMED
+**FRONT-END DEVELOPER · CREATIVE PROBLEM SOLVER**
+
+*I turn ideas into interactive digital experiences.*
+
+<br/>
+
+<a href="https://github.com/basmla-mohamed">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/basmala-mohamed-babb133a9">
+  <img src="https://img.shields.io/badge/LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
 
 </div>
 
 ---
+
+<img align="right" width="38%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
+
+### `01.1` — MY DEVELOPER DNA
+
+I’m passionate about the space where **design meets functionality**.
+
+I enjoy crafting responsive interfaces, bringing pages to life with JavaScript, and integrating APIs to transform static layouts into dynamic experiences.
+
+My focus is on building projects that combine thoughtful UI, meaningful interactions, and clean, organized code.
+
+<br clear="right"/>
+
+### `01.2` — WHAT I BRING TO THE SCREEN
+
+<div align="center">
+
+<code>✦ RESPONSIVE UI</code> &nbsp; <code>✦ INTERACTIVE UX</code>
+
+<br/><br/>
+
+<code>✦ API INTEGRATION</code> &nbsp; <code>✦ CREATIVE LAYOUTS</code>
+
+<br/><br/>
+
+<code>✦ JAVASCRIPT LOGIC</code> &nbsp; <code>✦ CONTINUOUS LEARNING</code>
+
+</div>
+
+---
+
+<div align="center">
+
+### THE WAY I BUILD
+
+<img src="https://img.shields.io/badge/01_DISCOVER-6C5CE7?style=for-the-badge" alt="Discover"/>
+<img src="https://img.shields.io/badge/02_DESIGN-8E6CEF?style=for-the-badge" alt="Design"/>
+<img src="https://img.shields.io/badge/03_DEVELOP-2878D0?style=for-the-badge" alt="Develop"/>
+<img src="https://img.shields.io/badge/04_REFINE-159D85?style=for-the-badge" alt="Refine"/>
+
+<br/><br/>
+
+**Not just pixels on a screen — but experiences built with purpose.**
+
+<sub>Always exploring new possibilities. Always building what comes next.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" width="75%" alt=""/>
+
+</div>
+
 
 ## `02` My Development Universe 🌌
 
@@ -806,18 +848,6 @@ Debug, improve structure, refine details, and keep learning from every challenge
 I'm always happy to connect with fellow developers, exchange ideas, learn from different perspectives, and explore opportunities to build meaningful things together.
 
 <br/>
-
-<a href="https://github.com/basmla-mohamed">
-<img src="https://img.shields.io/badge/Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Follow on GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/in/basmala-mohamed-babb133a9">
-<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-</a>
-
-<br/><br/>
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=Keep%20exploring.%20Keep%20creating.%20Keep%20evolving.&fontSize=22&fontColor=8B5CF6&fontAlignY=50&animation=fadeIn&desc=Always%20learning%20%E2%80%A2%20Always%20building&descSize=13&descAlignY=80&descColor=9CA3AF" alt="Keep exploring. Keep creating. Keep evolving." width="100%"/>

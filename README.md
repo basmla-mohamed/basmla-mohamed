@@ -628,55 +628,77 @@ A dynamic news website powered by external APIs to fetch and display real-time n
 
 ## `04` — Inside My Front-End Toolkit ⚡
 
-<div align="center">
+<p align="center">
+  <i>Technologies, tools, and concepts I use to turn ideas into interactive web experiences.</i>
+</p>
 
-| 🌐 WEB FOUNDATIONS | 🧠 INTERACTIVE LOGIC | 🅰️ MODERN FRAMEWORKS |
-|:---:|:---:|:---:|
-| Semantic HTML | DOM Manipulation | TypeScript |
-| Responsive CSS | Event Handling | Angular |
-| Bootstrap & Sass | JavaScript & jQuery | Component-Based UI |
+---
 
-| 🔌 DATA & INTEGRATION | 🎨 UI & EXPERIENCE | 🛠️ WORKFLOW |
-|:---:|:---:|:---:|
-| REST APIs | Layout & Typography | Git & GitHub |
-| JSON | Responsive Design | Gulp |
-| Dynamic Rendering | UI Interactions | VS Code |
+### 🌐 01 / Web Development
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
+</p>
+
+Building semantic layouts, responsive interfaces, reusable styles, and consistent designs across screen sizes.
+
+### 🧠 02 / JavaScript & Interactivity
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
+</p>
+
+Working with DOM manipulation, event handling, interactive components, form validation, and browser storage.
+
+### 🔌 03 / APIs & Dynamic Data
+
+<p>
+  <img src="https://img.shields.io/badge/REST_APIs-00897B?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/JSON-333333?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
+  <img src="https://img.shields.io/badge/Fetch_API-6C5CE7?style=for-the-badge&logo=javascript&logoColor=white" alt="Fetch API"/>
+</p>
+
+Exploring asynchronous JavaScript, external data integration, dynamic rendering, and search and filtering functionality.
+
+### 🅰️ 04 / Modern Front-End
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+</p>
+
+Expanding my knowledge of typed JavaScript, component-based architecture, data binding, services, and routing.
+
+### 🛠️ 05 / Development Workflow
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp"/>
+</p>
+
+Using version control, project organization, debugging, and development tools to build and maintain projects.
+
 
 <details>
-<summary><b>🔌 APIs & Dynamic Data</b></summary>
+<summary><b>🔍 Explore My Core Concepts</b></summary>
 
-- REST API integration.
-- Fetch API and JSON fundamentals.
-- Asynchronous JavaScript.
-- Dynamic data rendering.
-- Search, filtering, and pagination concepts.
+- **UI Engineering:** semantic HTML, responsive layouts, accessibility basics, and consistent visual hierarchy.
+- **JavaScript Logic:** functions, arrays, objects, DOM APIs, events, and asynchronous operations.
+- **Data Integration:** REST endpoints, JSON parsing, Fetch API, and dynamic UI updates.
+- **Code Quality:** reusable patterns, organized files, debugging, and maintainable styling.
+- **Framework Learning:** TypeScript fundamentals and Angular components, templates, services, and routing.
 
 </details>
 
-<details>
-<summary><b>⚙️ Front-End Fundamentals</b></summary>
-
-- Responsive and mobile-friendly layouts.
-- DOM manipulation and event handling.
-- JavaScript logic and interactive UI.
-- Reusable components and consistent styling.
-- Maintainable code and debugging.
-
-</details>
-
-<details>
-<summary><b>🅰️ Angular Learning Path</b></summary>
-
-- TypeScript fundamentals.
-- Components and templates.
-- Data binding and directives.
-- Services and dependency injection.
-- Routing and API-driven applications.
-
-</details>
-
+<p align="center">
+  <b>✦ Learn Continuously. Build Intentionally. Improve Every Day. ✦</b>
+</p>
 ---
 
 ## `05` — My Development Philosophy 💎
@@ -734,39 +756,46 @@ Debug, improve structure, refine details, and keep learning from every challenge
 
 ---
 
-## `06` — Currently in Progress 🧭
+## ✦ 06 — CURRENTLY IN PROGRESS
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,16,20&height=3" width="75%" alt="Decorative divider"/>
+</p>
+
+<p align="center">
+  <b>🚀 LEARNING • BUILDING • EVOLVING</b>
+  <br/>
+  <i>Expanding my skills and turning knowledge into real-world projects.</i>
+</p>
 
 <div align="center">
 
-| FOCUS AREA | MY DIRECTION |
+| ✦ LEARNING PATH | 🎯 CURRENT DIRECTION |
 |:---|:---|
-| 🅰️ Angular | Building a stronger foundation in Angular development |
-| 🔷 TypeScript | Writing clearer, more structured JavaScript applications |
-| 🌐 APIs | Working with external data and dynamic interfaces |
-| 🧱 Architecture | Learning reusable components and maintainable code |
-| 🤝 Open Source | Exploring collaboration and community-driven projects |
+| 🅰️ **Angular** | Strengthening my foundation in modern frontend development |
+| 🔷 **TypeScript** | Writing more reliable, readable, and maintainable code |
+| 🌐 **API Integration** | Building dynamic interfaces powered by external data |
+| 🧩 **Code Architecture** | Exploring reusable components and scalable project structures |
+| 🤝 **Open Source** | Learning collaboration and contributing to developer communities |
 
 </div>
 
-**My next milestone:** turning the knowledge I gain into increasingly polished, practical web applications.
+### 🎯 THE NEXT MILESTONE
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/01-LEARN-6C5CE7?style=for-the-badge" alt="Learn"/>
+  <img src="https://img.shields.io/badge/02-BUILD-0A66C2?style=for-the-badge" alt="Build"/>
+  <img src="https://img.shields.io/badge/03-IMPROVE-2EAD72?style=for-the-badge" alt="Improve"/>
+</p>
 
-## `07` — GitHub Activity 📈
+<p align="center">
+  <b>From learning concepts to building polished, practical web applications.</b>
+  <br/>
+  Every project is an opportunity to learn, experiment, and grow as a developer.
+</p>
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&bg_color=0B1026&title_color=9B8CFF&icon_color=00D9FF&text_color=E6E8FF&rank_icon=github" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&bg_color=0B1026&title_color=9B8CFF&text_color=E6E8FF" alt="Most used languages"/>
-
-<br/><br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&bg_color=0B1026&color=9B8CFF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
-
-</div>
-
----
+<p align="center">
+  <i>✧ Consistency over perfection. Progress over stagnation. ✧</i>
+</p>
 
 ## `08` — Let's Build Something Meaningful 🤝
 
@@ -778,11 +807,11 @@ I'm always happy to connect with fellow developers, exchange ideas, learn from d
 
 <br/>
 
-<a href="https://github.com/YOUR-USERNAME">
+<a href="https://github.com/basmla-mohamed">
 <img src="https://img.shields.io/badge/Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Follow on GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+<a href="https://www.linkedin.com/in/basmala-mohamed-babb133a9">
 <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
 

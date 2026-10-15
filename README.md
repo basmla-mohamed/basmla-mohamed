@@ -99,7 +99,6 @@ Learning new technologies, refining solutions, and improving through hands-on pr
 </tr>
 </table>
 
----
 
 <div align="center">
 
@@ -132,7 +131,7 @@ Learning new technologies, refining solutions, and improving through hands-on pr
 <!--                  DEVELOPER INTRO                       -->
 <!-- ======================================================= -->
 
-<div align="center">
+<div >
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=gradient" width="100%" alt=""/>
 

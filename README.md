@@ -37,13 +37,25 @@
 
 </div>
 
-### Basmala Mohamed — Building for the Web.
+<div align="center">
 
-I am a Front-End Developer passionate about crafting digital experiences that bring together **visual clarity, interactive functionality, and thoughtful user experience**.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:0B1026,40:392B70,75:6657D9,100:00D9FF" />
+
+</div>
+
+### 💠 Basmala Mohamed — Building for the Web.
+
+I am a Computer Science & Artificial Intelligence student, Front-End Developer passionate about crafting digital experiences that bring together **visual clarity, interactive functionality, and thoughtful user experience**.
 
 My approach to development goes beyond writing code. I enjoy understanding how interfaces work, exploring different solutions, and turning concepts into responsive websites that are both practical and engaging.
 
 I see every project as an opportunity to refine my skills, experiment with ideas, and develop a deeper understanding of modern web technologies.
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00D9FF,50:6657D9,100:0B1026" />
+
+</div>
 
 
 <div align="center">

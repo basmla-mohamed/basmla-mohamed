@@ -45,7 +45,7 @@
 
 ### 💠 Basmala Mohamed — Building for the Web.
 
-I am a Computer Science & Artificial Intelligence student, Front-End Developer passionate about crafting digital experiences that bring together **visual clarity, interactive functionality, and thoughtful user experience**.
+I am a Computer Science & Artificial Intelligence student, Front-End Developer| Aspiring Full-Stack Engineer passionate about crafting digital experiences that bring together **visual clarity, interactive functionality, and thoughtful user experience**.
 
 My approach to development goes beyond writing code. I enjoy understanding how interfaces work, exploring different solutions, and turning concepts into responsive websites that are both practical and engaging.
 

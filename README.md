@@ -183,18 +183,8 @@ My focus is on building projects that combine thoughtful UI, meaningful interact
 
 </div>
 
----
 
 <div align="center">
-
-### THE WAY I BUILD
-
-<img src="https://img.shields.io/badge/01_DISCOVER-6C5CE7?style=for-the-badge" alt="Discover"/>
-<img src="https://img.shields.io/badge/02_DESIGN-8E6CEF?style=for-the-badge" alt="Design"/>
-<img src="https://img.shields.io/badge/03_DEVELOP-2878D0?style=for-the-badge" alt="Develop"/>
-<img src="https://img.shields.io/badge/04_REFINE-159D85?style=for-the-badge" alt="Refine"/>
-
-<br/><br/>
 
 **Not just pixels on a screen — but experiences built with purpose.**
 

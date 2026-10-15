@@ -334,7 +334,7 @@ A book-inspired digital experience designed to bring readers closer to their nex
 </td>
 <td width="58%" valign="middle">
 
-#### 🥚 An Interactive Egg-Catching Challenge
+### 🥚 An Interactive Egg-Catching Challenge
 
 A playful browser game where quick reactions and timing create an engaging experience, featuring animated gameplay, score tracking, and interactive controls.
 
@@ -371,7 +371,7 @@ A playful browser game where quick reactions and timing create an engaging exper
 </td>
 <td width="58%" valign="middle">
 
-#### 🍽 A Refined Digital Dining Experience
+### 🍽 A Refined Digital Dining Experience
 
 A modern restaurant website designed to showcase delicious dishes through elegant visuals, engaging layouts, and a welcoming dining atmosphere.
 
@@ -407,7 +407,7 @@ A modern restaurant website designed to showcase delicious dishes through elegan
 
 <td width="58%" valign="middle">
 
-#### A Corporate Digital Experience
+### A Corporate Digital Experience
 
 A modern corporate website designed to present company information through a clean interface, dynamic content, and polished visual elements.
 
@@ -442,7 +442,7 @@ A modern corporate website designed to present company information through a cle
 </td>
 <td width="58%" valign="middle">
 
-#### A Bold Sportswear Experience
+### A Bold Sportswear Experience
 
 A product-focused website inspired by athletic style, combining bold visuals, modern layouts, and an engaging browsing experience.
 
@@ -476,7 +476,7 @@ A product-focused website inspired by athletic style, combining bold visuals, mo
 </td>
 <td width="58%" valign="middle">
 
-#### A Warm Coffeehouse Experience
+### A Warm Coffeehouse Experience
 
 A coffee-shop website concept built around inviting visuals, thoughtful layouts, and a welcoming café atmosphere.
 
@@ -511,7 +511,7 @@ A coffee-shop website concept built around inviting visuals, thoughtful layouts,
 </td>
 <td width="58%" valign="middle">
 
-#### A Modern Restaurant Discovery Experience
+### A Modern Restaurant Discovery Experience
 
 A restaurant website concept focused on presenting dining options through attractive visuals, organized sections, and a smooth browsing experience.
 
@@ -546,7 +546,7 @@ A restaurant website concept focused on presenting dining options through attrac
 </td>
 <td width="58%" valign="middle">
 
-#### A Powerful Fitness Experience
+### A Powerful Fitness Experience
 
 A fitness website concept designed to present workout-related content through bold visuals, energetic layouts, and a modern user interface.
 
@@ -581,7 +581,7 @@ A fitness website concept designed to present workout-related content through bo
 </td>
 <td width="58%" valign="middle">
 
-#### A Modern Digital News Platform
+### A Modern Digital News Platform
 
 A dynamic news website powered by external APIs to fetch and display real-time news data. Built with a clean editorial layout, organized content sections, and a responsive interface to make browsing the latest news smooth, clear, and user-friendly.
 
@@ -754,7 +754,7 @@ Debug, improve structure, refine details, and keep learning from every challenge
 
 > `A working solution is a beginning. Understanding it, refining it, and making it better is the journey.`
 
----
+
 
 ## ✦ 06 — CURRENTLY IN PROGRESS
 <p align="center">
@@ -817,7 +817,29 @@ I'm always happy to connect with fellow developers, exchange ideas, learn from d
 
 <br/><br/>
 
-### `Keep exploring. Keep creating. Keep evolving.`
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=Keep%20exploring.%20Keep%20creating.%20Keep%20evolving.&fontSize=22&fontColor=8B5CF6&fontAlignY=50&animation=fadeIn&desc=Always%20learning%20%E2%80%A2%20Always%20building&descSize=13&descAlignY=80&descColor=9CA3AF" alt="Keep exploring. Keep creating. Keep evolving." width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="65%" alt="Gradient divider"/>
+</p>
+
+<p align="center">
+  <b>✦ Turning curiosity into code, and ideas into experiences. ✦</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/basmla-mohamed">
+    <img src="https://img.shields.io/badge/Explore%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/basmala-mohamed-babb133a9">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+</p>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,40:6657D9,100:0B1026&height=130&section=footer" alt="Animated profile footer"/>
 

@@ -13,13 +13,13 @@
 
 <br/><br/>
 
-<a href="https://github.com/YOUR-USERNAME">
+<a href="https://github.com/basmla-mohamed">
 <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-15132B?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+<a href="https://www.linkedin.com/in/basmala-mohamed-babb133a9">
 <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-15132B?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn"/>
 </a>
-<a href="mailto:YOUR-EMAIL@example.com">
+<a href="mailto:bm667907@gmail.com">bm667907@gmail.com</a>
 <img src="https://img.shields.io/badge/Email-Say%20Hello-15132B?style=for-the-badge&logo=gmail&logoColor=FF7AD9" alt="Email"/>
 </a>
 

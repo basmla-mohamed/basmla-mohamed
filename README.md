@@ -285,13 +285,13 @@ A fashion-inspired shopping experience focused on polished visuals, organized pr
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
-[↗ Live Demo]([YOUR-CARTELLE-LIVE-URL](https://basmla-mohamed.github.io/Cartella))
+[↗ Live Demo](https://basmla-mohamed.github.io/Cartella)
 
 </td>
 </tr>
 </table>
 
-<!--bookstore 2-->
+
 ### ✦ 02 / Bookstore
 
 <table>
@@ -301,7 +301,7 @@ A fashion-inspired shopping experience focused on polished visuals, organized pr
 
 <td width="58%" valign="middle">
 
-📘 A Creative Digital Bookstore
+### 📘 A Creative Digital Bookstore
 
 A book-inspired digital experience designed to bring readers closer to their next favorite story through elegant visuals, organized collections, and a warm reading atmosphere.
 
@@ -324,60 +324,63 @@ A book-inspired digital experience designed to bring readers closer to their nex
 </table>
 
 <!-- ================ FEATURED PROJECT 03 ================ -->
-
-### ✦ 03 / Bookstore
+### ✦ 03 / Drop Egg Game
 
 <table>
 <tr>
-<td width="42%" valign="top">
-
-<img src="assets/bookstore.png" width="100%" alt="Bookstore website preview"/>
+<td width="42%" align="center" valign="middle">
+<img width="1366" height="644" alt="ChickensGame" src="https://github.com/user-attachments/assets/1b08bdd4-58c9-4ea8-ab0c-0e3185066360" />
 
 </td>
-<td width="58%" valign="top">
+<td width="58%" valign="middle">
 
-#### 📚 A Creative Book Discovery Experience
+#### 🥚 An Interactive Egg-Catching Challenge
 
-A bookstore website combining a warm visual identity with a user-friendly browsing experience.
+A playful browser game where quick reactions and timing create an engaging experience, featuring animated gameplay, score tracking, and interactive controls.
 
 **Highlights**
-- Book-focused visual presentation.
-- Structured sections and responsive layouts.
-- Opportunities for interactive favorites and saved items.
+
+- Real-time score tracking and best-score records.
+- Interactive gameplay with multiple lives.
+- Pause, restart, and sound controls.
+- Animated visuals and responsive design.
 
 **Built With**
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
-[↗ Live Demo](YOUR-BOOKSTORE-LIVE-URL) · [⌘ Source Code](YOUR-BOOKSTORE-REPOSITORY-URL)
+[↗ Play Game](https://basmla-mohamed.github.io/Chickens-Game)
 
 </td>
 </tr>
 </table>
 
 <!-- ================ FEATURED PROJECT 04 ================ -->
-
 ### ✦ 04 / Delici
 
 <table>
 <tr>
-<td width="42%" valign="top">
-
-<img src="assets/delici.png" width="100%" alt="Delici restaurant website preview"/>
+<td width="42%" align="center" valign="middle">
+<img width="1366" height="644" alt="Delici" src="https://github.com/user-attachments/assets/10b389a0-fe7f-4624-b2a5-17dabbae1029" />
 
 </td>
-<td width="58%" valign="top">
+<td width="58%" valign="middle">
 
-#### 🍽️ A Restaurant Landing Experience
+#### 🍽 A Refined Digital Dining Experience
 
-A restaurant website centered around visual hierarchy, appealing layouts, and a smooth browsing experience.
+A modern restaurant website designed to showcase delicious dishes through elegant visuals, engaging layouts, and a welcoming dining atmosphere.
 
 **Highlights**
-- Responsive restaurant sections.
-- Carefully organized typography and content.
-- Interactive elements and polished presentation.
+
+- Attractive food presentation and menu sections.
+- Responsive layouts for different screen sizes.
+- Interactive UI components and smooth animations.
+- Modern design focused on visual storytelling.
 
 **Built With**
 
@@ -386,68 +389,102 @@ A restaurant website centered around visual hierarchy, appealing layouts, and a 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-[↗ Live Demo](YOUR-DELICI-LIVE-URL) · [⌘ Source Code](YOUR-DELICI-REPOSITORY-URL)
+[↗ Live Demo](https://basmla-mohamed.github.io/Delici)
 
 </td>
 </tr>
 </table>
 
 <!-- ================ FEATURED PROJECT 05 ================ -->
-
-### ✦ 05 / Course Organizer
+### ✦ 05 / L10N House
 
 <table>
 <tr>
-<td width="42%" valign="top">
+<td width="42%" align="center" valign="middle">
+<img width="1366" height="641" alt="L10House" src="https://github.com/user-attachments/assets/00515442-ec91-4495-9f68-42576d065f40" />
 
-<img src="assets/course-organizer.png" width="100%" alt="Course Organizer website preview"/>
+<td width="58%" valign="middle">
 
-</td>
-<td width="58%" valign="top">
+#### A Corporate Digital Experience
 
-#### 🎓 A Simple Course Management Interface
-
-A web project designed to organize course information through clear sections and structured layouts.
+A modern corporate website designed to present company information through a clean interface, dynamic content, and polished visual elements.
 
 **Highlights**
-- Course organization and presentation.
-- Forms and tabular data.
-- Clean, accessible page structure.
+
+- Dynamic data integration using external APIs.
+- Interactive theme switching.
+- Responsive layouts and animated UI elements.
 
 **Built With**
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-[↗ Live Demo](YOUR-COURSE-ORGANIZER-LIVE-URL) · [⌘ Source Code](YOUR-COURSE-ORGANIZER-REPOSITORY-URL)
+[↗ Live Demo](https://basmla-mohamed.github.io/L10house)
 
 </td>
 </tr>
 </table>
 
-<!-- ================ FEATURED PROJECT 06 ================ -->
-
-### ✦ 06 / Drop Egg Game
+<!--project 6-->
+### ✦ 06 / Nike
 
 <table>
 <tr>
-<td width="42%" valign="top">
-
-<img src="assets/drop-egg-game.png" width="100%" alt="Drop Egg Game preview"/>
+<td width="42%" align="center" valign="middle">
+<img width="1366" height="639" alt="nike" src="https://github.com/user-attachments/assets/54ba2d53-afd6-4c90-9332-144eef556fea" />
 
 </td>
-<td width="58%" valign="top">
+<td width="58%" valign="middle">
 
-#### 🥚 An Interactive Browser Game
+#### A Bold Sportswear Experience
 
-A playful browser-based game exploring interactive controls, score tracking, and engaging visual feedback.
+A product-focused website inspired by athletic style, combining bold visuals, modern layouts, and an engaging browsing experience.
 
 **Highlights**
-- Game interface and score display.
-- Interactive buttons and game states.
-- Responsive styling and visual effects.
+
+- Product-focused presentation.
+- Modern layouts and responsive styling.
+- Interactive elements and visual details.
+
+**Built With**
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[↗ Live Demo](https://basmla-mohamed.github.io/Nike)
+
+</td>
+</tr>
+</table>
+
+<!--project 7-->
+
+### ✦ 07 / Kaffa
+
+<table>
+<tr>
+<td width="42%" align="center" valign="middle">
+<img width="1366" height="625" alt="kaffa" src="https://github.com/user-attachments/assets/81423f4e-9f74-4217-8d65-57b2574b0076" />
+
+</td>
+<td width="58%" valign="middle">
+
+#### A Warm Coffeehouse Experience
+
+A coffee-shop website concept built around inviting visuals, thoughtful layouts, and a welcoming café atmosphere.
+
+**Highlights**
+
+- Coffee-inspired visual identity.
+- Organized content and product presentation.
+- Responsive interface design.
 
 **Built With**
 
@@ -456,31 +493,138 @@ A playful browser-based game exploring interactive controls, score tracking, and
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-[↗ Live Demo](YOUR-GAME-LIVE-URL) · [⌘ Source Code](YOUR-GAME-REPOSITORY-URL)
+[↗ Live Demo](https://basmla-mohamed.github.io/Kaffa)
 
 </td>
 </tr>
 </table>
 
-<!--
-ADD MORE PROJECTS HERE
+<!--project 8-->
 
-Duplicate any project table above and update its content.
-You can include as many projects as you need without changing
-the overall visual structure of your README.
--->
+### ✦ 08 / Dine-Out
+
+<table>
+<tr>
+<td width="42%" align="center" valign="middle">
+<img width="1366" height="635" alt="dine-out" src="https://github.com/user-attachments/assets/a0c601fb-67ad-4e45-ae50-481ee7301136" />
+
+</td>
+<td width="58%" valign="middle">
+
+#### A Modern Restaurant Discovery Experience
+
+A restaurant website concept focused on presenting dining options through attractive visuals, organized sections, and a smooth browsing experience.
+
+**Highlights**
+
+- Restaurant and food presentation.
+- Responsive layouts for multiple devices.
+- Interactive interface elements.
+- Clear content structure and modern styling.
+
+**Built With**
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+[↗ Live Demo](https://basmla-mohamed.github.io/Dine-Out)
+
+</td>
+</tr>
+</table>
+
+<!--project 9-->
+### ✦ 09 / Gym Plus
+
+<table>
+<tr>
+<td width="42%" align="center" valign="middle">
+<img width="1366" height="641" alt="gym-plus" src="https://github.com/user-attachments/assets/5c624461-9cd8-43a1-979e-b5ee72842ceb" />
+
+</td>
+<td width="58%" valign="middle">
+
+#### A Powerful Fitness Experience
+
+A fitness website concept designed to present workout-related content through bold visuals, energetic layouts, and a modern user interface.
+
+**Highlights**
+
+- Fitness-focused sections and content presentation.
+- Bold visual identity and structured layouts.
+- Responsive design for different screen sizes.
+- Interactive UI elements.
+
+**Built With**
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+[↗ Live Demo](https://basmla-mohamed.github.io/Gym-Plus)
+
+</td>
+</tr>
+</table>
+
+<!--project 10-->
+
+### ✦ 10 / News Website
+
+<table>
+<tr>
+<td width="42%" align="center" valign="middle">
+<img width="1366" height="640" alt="News" src="https://github.com/user-attachments/assets/a331aa0f-e319-454d-a474-24e93fb2d8df" />
+
+</td>
+<td width="58%" valign="middle">
+
+#### A Modern Digital News Platform
+
+A dynamic news website powered by external APIs to fetch and display real-time news data. Built with a clean editorial layout, organized content sections, and a responsive interface to make browsing the latest news smooth, clear, and user-friendly.
+
+**Highlights**
+-  Fetching news articles dynamically using external APIs
+-  Displaying up-to-date news content
+-  Organized news sections for easy browsing
+-  Responsive design across different screen sizes
+-  Dynamic content rendering with JavaScript
+
+**Built With**
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+[↗ Live Demo](https://basmla-mohamed.github.io/News)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
 ### ✨ More projects. More ideas. More to discover.
 
-<a href="https://github.com/YOUR-USERNAME?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-6657D9?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects"/>
-</a>
+<p align="center">
+  <a href="https://github.com/YOUR-USERNAME?tab=repositories">
+    <img src="https://img.shields.io/badge/✦_EXPLORE_MY_PROJECTS-6C5CE7?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Projects"/>
+  </a>
+  &nbsp;
+<p >
+  <a href="https://www.linkedin.com/in/basmala-mohamed-babb133a9" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
+</p>
+</p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=3" width="80%" alt="Decorative divider"/>
+</p>
 </div>
-
----
 
 ## `04` — Inside My Front-End Toolkit ⚡
 

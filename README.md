@@ -251,32 +251,19 @@ I enjoy exploring new technologies, experimenting with creative layouts, solving
 <p align="left">From elegant interfaces to interactive applications — each project represents an opportunity to experiment, solve problems, and grow as a developer.**</p>
 
 </div>
-
-<!--
-PROJECT CARD TEMPLATE
-
-For every new project:
-1. Copy one complete project card.
-2. Replace the project name and description.
-3. Add a screenshot to the assets folder in this profile repository.
-4. Add the real live demo and source code links.
-5. Update the technology badges.
-
-Create an "assets" folder in your profile repository for screenshots.
--->
-
 <!-- ================ FEATURED PROJECT 01 ================ -->
 
 ### ✦ 01 / Cartelle
 
 <table>
 <tr>
-<td width="42%" valign="top">
 
-<!-- Replace with your screenshot: assets/cartelle.png -->
-
-<img src="assets/cartelle.png" width="100%" alt="Cartelle e-commerce website preview"/>
-
+<td width="42%" align="center" valign="middle">
+  <img
+    width="100%"
+    alt="Cartelle"
+    src="https://github.com/user-attachments/assets/095c1e73-543d-444a-9d30-53469fda6312"
+  />
 </td>
 <td width="58%" valign="top">
 
@@ -298,44 +285,39 @@ A fashion-inspired shopping experience focused on polished visuals, organized pr
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
-[↗ Live Demo](YOUR-CARTELLE-LIVE-URL) · [⌘ Source Code](YOUR-CARTELLE-REPOSITORY-URL)
+[↗ Live Demo]([YOUR-CARTELLE-LIVE-URL](https://basmla-mohamed.github.io/Cartella))
 
 </td>
 </tr>
 </table>
 
-<!-- ================ FEATURED PROJECT 02 ================ -->
-
-### ✦ 02 / L10N House
+<!--bookstore 2-->
+### ✦ 02 / Bookstore
 
 <table>
 <tr>
-<td width="42%" valign="top">
+<td width="42%" align="center" valign="middle">
+<img width="1366" height="642" alt="bookStore" src="https://github.com/user-attachments/assets/0757776c-6473-4f41-8772-69a877505fd1" />
 
-<img src="assets/l10n-house.png" width="100%" alt="L10N House website preview"/>
+<td width="58%" valign="middle">
 
-</td>
-<td width="58%" valign="top">
+📘 A Creative Digital Bookstore
 
-#### 🌐 A Corporate Web Experience
-
-A professional company-style website bringing together structured content, external data, and a polished interface.
+A book-inspired digital experience designed to bring readers closer to their next favorite story through elegant visuals, organized collections, and a warm reading atmosphere.
 
 **Highlights**
-- External API integration.
-- Dynamic content rendering.
-- Light and dark theme switching.
-- Organized layouts and visual animations.
+
+- Organized book displays and intuitive browsing.
+- Elegant typography and a refined visual identity.
+- Interactive user interface and responsive layouts.
 
 **Built With**
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
-[↗ Live Demo](YOUR-L10N-LIVE-URL) · [⌘ Source Code](YOUR-L10N-REPOSITORY-URL)
+[↗ Live Demo](https://basmla-mohamed.github.io/Book-Store)
 
 </td>
 </tr>

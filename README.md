@@ -121,11 +121,11 @@ Learning new technologies, refining solutions, and improving through hands-on pr
 <!--                    INTRODUCTION                         -->
 <!-- ======================================================= -->
 
-## `01` — Beyond the Interface ✦
+## `01` Beyond the Interface 
 
-<img align="right" width="35%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
+<img align="right"  width="35%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
 
-Hey there! I'm **Basmala Mohamed** 👋
+Hey there! I'm **Basmala Mohamed** 
 
 A Front-End Developer passionate about crafting **modern, responsive, and interactive web experiences**.
 
@@ -133,12 +133,12 @@ For me, web development is more than writing code. It's about transforming ideas
 
 I enjoy exploring new technologies, experimenting with creative layouts, solving coding challenges, and turning what I learn into real projects.
 
-- 🎨 I care about visual details and user experience.
-- 💻 I build responsive interfaces with modern front-end tools.
-- ⚡ I enjoy bringing websites to life with interactive functionality.
-- 🧩 I'm developing my skills in TypeScript and Angular.
-- 🌱 I believe every project should teach me something new.
-- 🤝 I'm interested in collaboration and open-source contributions.
+- I care about visual details and user experience.
+- I build responsive interfaces with modern front-end tools.
+- I enjoy bringing websites to life with interactive functionality.
+- I'm developing my skills in TypeScript and Angular.
+- I believe every project should teach me something new.
+- I'm interested in collaboration and open-source contributions.
 
 <br clear="right"/>
 
@@ -152,7 +152,7 @@ I enjoy exploring new technologies, experimenting with creative layouts, solving
 
 ---
 
-## `02` — My Development Universe 🌌
+## `02` My Development Universe 🌌
 
 <div align="center">
 
@@ -168,10 +168,12 @@ I enjoy exploring new technologies, experimenting with creative layouts, solving
 
 </div>
 
-### Technology Stack
+<h1> Technology Stack</h1>
+
+<sub>DESIGN · STRUCTURE · RESPONSIVENESS</sub>
 
 <details>
-<summary><b>🎨 Markup, Styling & Responsive Design</b></summary>
+<summary><b>01.1 &nbsp; MARKUP & VISUAL ENGINEERING</b></summary>
 
 <br/>
 
@@ -180,14 +182,16 @@ I enjoy exploring new technologies, experimenting with creative layouts, solving
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-- Responsive layouts and mobile-friendly interfaces.
-- Reusable styling patterns and organized stylesheets.
-- Modern layouts, transitions, and visual effects.
+> Turning visual concepts into responsive, accessible interfaces.
+
+- Responsive layouts across different screen sizes.
+- Reusable styles and structured CSS architecture.
+- Modern visual effects, transitions, and UI details.
 
 </details>
 
 <details>
-<summary><b>⚡ JavaScript & Interactive Development</b></summary>
+<summary><b>01.2 &nbsp; INTERACTION & LOGIC</b></summary>
 
 <br/>
 
@@ -195,28 +199,31 @@ I enjoy exploring new technologies, experimenting with creative layouts, solving
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-- DOM manipulation and event handling.
-- Interactive components and UI behavior.
-- Dynamic content and working with APIs.
-- Type-safe development with TypeScript.
+> Bringing interfaces to life through logic and interaction.
+
+- DOM manipulation and event-driven behavior.
+- Dynamic content and API integration.
+- TypeScript fundamentals and type-safe code.
 
 </details>
 
 <details>
-<summary><b>🅰️ Angular & Modern Front-End</b></summary>
+<summary><b>01.3 &nbsp; COMPONENT-BASED DEVELOPMENT</b></summary>
 
 <br/>
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
-- Exploring component-based application development.
-- Learning reusable UI architecture and TypeScript workflows.
-- Building toward maintainable, scalable web applications.
+> Exploring a more structured approach to building web applications.
+
+- Component-based UI development.
+- Reusable application architecture.
+- TypeScript workflows and maintainable code.
 
 </details>
 
 <details>
-<summary><b>🛠️ Workflow & Development Tools</b></summary>
+<summary><b>01.4 &nbsp; ENGINEERING WORKFLOW</b></summary>
 
 <br/>
 
@@ -225,23 +232,23 @@ I enjoy exploring new technologies, experimenting with creative layouts, solving
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-- Version control and repository management.
-- Organizing front-end projects.
-- Exploring automated development workflows with Gulp.
+> Keeping projects organized, trackable, and easier to maintain.
+
+- Version control with Git and GitHub.
+- Project organization and development workflows.
+- Exploring task automation with Gulp.
 
 </details>
 
----
-
-## `03` — The Project Gallery ✧
+## `03` MY PROJECTS
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=9B8CFF&center=true&vCenter=true&width=650&lines=Not+just+projects.+Proof+of+progress.;Different+ideas.+Different+challenges.;One+developer.+A+journey+of+continuous+growth." alt="Project gallery animation"/>
 
-### Every project has a story. Here's where mine unfolds.
+<p align="left">Every project has a story. Here's where mine unfolds.</p>
 
-**From elegant interfaces to interactive applications — each project represents an opportunity to experiment, solve problems, and grow as a developer.**
+<p align="left">From elegant interfaces to interactive applications — each project represents an opportunity to experiment, solve problems, and grow as a developer.**</p>
 
 </div>
 

@@ -19,17 +19,103 @@
 <a href="https://www.linkedin.com/in/basmala-mohamed-babb133a9">
 <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-15132B?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn"/>
 </a>
-<a href="mailto:bm667907@gmail.com">bm667907@gmail.com</a>
+<a href="mailto:bm667907@gmail.com"></a>
 <img src="https://img.shields.io/badge/Email-Say%20Hello-15132B?style=for-the-badge&logo=gmail&logoColor=FF7AD9" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=6657D9&label=PROFILE+VISITORS" alt="Profile visitors"/>
+</div>
+
+<!-- ================= ABOUT ME ================= -->
+
+<div >
+
+<h2>ABOUT ME</h2>
+
+<img src="https://img.shields.io/badge/IDENTITY-FRONT--END%20DEVELOPER-15132B?style=for-the-badge&labelColor=6657D9&color=15132B" alt="Front-End Developer identity"/>
 
 </div>
 
+### Basmala Mohamed — Building for the Web.
+
+I am a Front-End Developer passionate about crafting digital experiences that bring together **visual clarity, interactive functionality, and thoughtful user experience**.
+
+My approach to development goes beyond writing code. I enjoy understanding how interfaces work, exploring different solutions, and turning concepts into responsive websites that are both practical and engaging.
+
+I see every project as an opportunity to refine my skills, experiment with ideas, and develop a deeper understanding of modern web technologies.
+
 ---
+
+<div align="center">
+
+### THE WAY I BUILD...
+
+</div>
+
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+
+
+<img src="https://img.shields.io/badge/01-6657D9?style=flat-square" alt="01"/>
+
+**STRUCTURE**
+
+Building clear, organized foundations with semantic HTML and maintainable code.
+
+</td>
+<td align="center" width="33%">
+
+
+<img src="https://img.shields.io/badge/02-00AFCB?style=flat-square" alt="02"/>
+
+**EXPERIENCE**
+
+Creating responsive layouts, thoughtful interactions, and consistent visual experiences.
+
+</td>
+<td align="center" width="33%">
+
+
+<img src="https://img.shields.io/badge/03-FF7AD9?style=flat-square" alt="03"/>
+
+**EVOLUTION**
+
+Learning new technologies, refining solutions, and improving through hands-on projects.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### MY DEVELOPMENT TOOLKIT
+
+</div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-Structure-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-Visuals-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-Interactions-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Bootstrap-Responsive-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/Sass-Styling-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass"/>
+<img src="https://img.shields.io/badge/jQuery-DOM-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery"/>
+<img src="https://img.shields.io/badge/TypeScript-Typed%20JavaScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Angular-Exploring-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
+</p>
+
+<div align="center">
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Curiosity+drives+my+code.;Every+detail+shapes+the+experience.;Progress+is+built+one+project+at+a+time." alt="Developer principles"/>
+
+</div>
+
+<!-- =============== END ABOUT ME =============== -->
 
 <!-- ======================================================= -->
 <!--                    INTRODUCTION                         -->

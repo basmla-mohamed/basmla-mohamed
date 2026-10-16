@@ -450,7 +450,7 @@ A modern restaurant website designed to showcase delicious dishes through elegan
 
 <td width="58%" valign="middle">
 
-### A Corporate Digital Experience
+### 🌐 A Corporate Digital Experience
 
 A modern corporate website designed to present company information through a clean interface, dynamic content, and polished visual elements.
 
@@ -485,7 +485,7 @@ A modern corporate website designed to present company information through a cle
 </td>
 <td width="58%" valign="middle">
 
-### A Bold Sportswear Experience
+### 👟 A Bold Sportswear Experience
 
 A product-focused website inspired by athletic style, combining bold visuals, modern layouts, and an engaging browsing experience.
 
@@ -519,7 +519,7 @@ A product-focused website inspired by athletic style, combining bold visuals, mo
 </td>
 <td width="58%" valign="middle">
 
-### A Warm Coffeehouse Experience
+### ☕ A Warm Coffeehouse Experience
 
 A coffee-shop website concept built around inviting visuals, thoughtful layouts, and a welcoming café atmosphere.
 
@@ -554,7 +554,7 @@ A coffee-shop website concept built around inviting visuals, thoughtful layouts,
 </td>
 <td width="58%" valign="middle">
 
-### A Modern Restaurant Discovery Experience
+### 🍽️ A Modern Restaurant Discovery Experience
 
 A restaurant website concept focused on presenting dining options through attractive visuals, organized sections, and a smooth browsing experience.
 
@@ -589,7 +589,7 @@ A restaurant website concept focused on presenting dining options through attrac
 </td>
 <td width="58%" valign="middle">
 
-### A Powerful Fitness Experience
+### 💪 A Powerful Fitness Experience
 
 A fitness website concept designed to present workout-related content through bold visuals, energetic layouts, and a modern user interface.
 
@@ -624,7 +624,7 @@ A fitness website concept designed to present workout-related content through bo
 </td>
 <td width="58%" valign="middle">
 
-### A Modern Digital News Platform
+### 📰 A Modern Digital News Platform
 
 A dynamic news website powered by external APIs to fetch and display real-time news data. Built with a clean editorial layout, organized content sections, and a responsive interface to make browsing the latest news smooth, clear, and user-friendly.
 
@@ -643,6 +643,78 @@ A dynamic news website powered by external APIs to fetch and display real-time n
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 [↗ Live Demo](https://basmla-mohamed.github.io/News)
+
+</td>
+</tr>
+</table>
+<!--project 11-->
+
+### ✦ 11 / Fokir Proffisional Portolio
+
+<table>
+<tr>
+<td width="42%" align="center" valign="middle">
+<a href="https://basmla-mohamed.github.io/Fokir/">
+<img width="1366" height="644" alt="fokir" src="https://github.com/user-attachments/assets/bd443f2d-a7b8-4d5a-8861-f57e17bae75b" />
+</a>
+</td>
+<td width="58%" valign="middle">
+
+### 🎨A Modern Personal Portfolio
+
+A responsive personal portfolio website designed to showcase a creative professional's profile, services, projects, testimonials, and blog posts. Built with a clean layout, elegant styling, and responsive design to deliver a smooth browsing experience across different screen sizes.
+
+**Highlights**
+- Personal profile and About section
+- Services and portfolio showcase
+- Project gallery with interactive hover effects
+- Testimonials and blog sections
+- Contact section for inquiries
+- Responsive layout for different screen sizes
+
+**Built With**
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+[↗ Live Demo](https://basmla-mohamed.github.io/Fokir/)
+
+</td>
+</tr>
+</table>
+
+<!--project 12-->
+
+### 💪 12 / Gym Website
+
+<table>
+<tr>
+<td width="42%" align="center" valign="middle">
+<a href="https://basmla-mohamed.github.io/Gym/">
+<img width="1366" height="646" alt="GYM" src="https://github.com/user-attachments/assets/f45c27e8-de99-4d6b-89ae-cb5c313f80f0" />
+
+</a>
+</td>
+<td width="58%" valign="middle">
+
+### 🏋️‍♂️ A Modern Fitness Website
+
+A responsive gym website designed to showcase fitness programs, workout services, and membership options through a bold and engaging interface. Built with a modern layout and responsive styling to deliver a smooth user experience across different screen sizes.
+
+**Highlights**
+- Modern and attractive fitness-themed design
+- Workout programs and fitness services
+- Responsive layout for different screen sizes
+- Interactive elements and hover effects
+- Organized sections for easy navigation
+
+**Built With**
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+[↗ Live Demo](https://basmla-mohamed.github.io/Gym/)
 
 </td>
 </tr>
@@ -669,80 +741,155 @@ A dynamic news website powered by external APIs to fetch and display real-time n
 </p>
 </div>
 
-## `04` — Inside My Front-End Toolkit ⚡
+## `04` — Inside My Front-End Toolkit 
 
 <p align="center">
   <i>Technologies, tools, and concepts I use to turn ideas into interactive web experiences.</i>
 </p>
 
----
-
 ### 🌐 01 / Web Development
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
-</p>
-
 Building semantic layouts, responsive interfaces, reusable styles, and consistent designs across screen sizes.
 
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="10">
+<tr>
+<td align="center" style="border: none;">
+<img src="https://skillicons.dev/icons?i=html" width="55" alt="HTML5"/>
+<br/>
+<strong>HTML5</strong>
+</td>
+
+<td align="center" style="border: none;">
+<img src="https://skillicons.dev/icons?i=css" width="55" alt="CSS3"/>
+<br/>
+<strong>CSS3</strong>
+</td>
+
+<td align="center" style="border: none;">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="55" alt="Bootstrap"/>
+<br/>
+<strong>Bootstrap</strong>
+</td>
+
+<td align="center" style="border: none;">
+<img src="https://skillicons.dev/icons?i=sass" width="55" alt="Sass"/>
+<br/>
+<strong>Sass</strong>
+</td>
+</tr>
+</table>
+
+</div>
+
+
+
+
 ### 🧠 02 / JavaScript & Interactivity
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
-</p>
-
 Working with DOM manipulation, event handling, interactive components, form validation, and browser storage.
 
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="10">
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=js" width="55" alt="JavaScript"/>
+        <br/>
+        <strong>JavaScript</strong>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=jquery" width="55" alt="jQuery"/>
+        <br/>
+        <strong>jQuery</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+
 ### 🔌 03 / APIs & Dynamic Data
-
-<p>
-  <img src="https://img.shields.io/badge/REST_APIs-00897B?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/JSON-333333?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
-  <img src="https://img.shields.io/badge/Fetch_API-6C5CE7?style=for-the-badge&logo=javascript&logoColor=white" alt="Fetch API"/>
-</p>
-
 Exploring asynchronous JavaScript, external data integration, dynamic rendering, and search and filtering functionality.
 
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="10">
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=postman" width="55" alt="REST APIs"/>
+        <br/>
+        <strong>REST APIs</strong>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/JSON-333333?style=for-the-badge&logo=json&logoColor=white" height="28" alt="JSON"/>
+        <br/>
+        <strong>JSON</strong>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=js" width="55" alt="Fetch API"/>
+        <br/>
+        <strong>Fetch API</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+
 ### 🅰️ 04 / Modern Front-End
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-</p>
-
 Expanding my knowledge of typed JavaScript, component-based architecture, data binding, services, and routing.
 
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="10">
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=ts" width="55" alt="TypeScript"/>
+        <br/>
+        <strong>TypeScript</strong>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=angular" width="55" alt="Angular"/>
+        <br/>
+        <strong>Angular</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
 ### 🛠️ 05 / Development Workflow
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp"/>
-</p>
-
 Using version control, project organization, debugging, and development tools to build and maintain projects.
 
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="10">
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git" width="55" alt="Git"/>
+        <br/>
+        <strong>Git</strong>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub"/>
+        <br/>
+        <strong>GitHub</strong>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=vscode" width="55" alt="VS Code"/>
+        <br/>
+        <strong>VS Code</strong>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=gulp" width="55" alt="Gulp"/>
+        <br/>
+        <strong>Gulp</strong>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<details>
-<summary><b>🔍 Explore My Core Concepts</b></summary>
 
-- **UI Engineering:** semantic HTML, responsive layouts, accessibility basics, and consistent visual hierarchy.
-- **JavaScript Logic:** functions, arrays, objects, DOM APIs, events, and asynchronous operations.
-- **Data Integration:** REST endpoints, JSON parsing, Fetch API, and dynamic UI updates.
-- **Code Quality:** reusable patterns, organized files, debugging, and maintainable styling.
-- **Framework Learning:** TypeScript fundamentals and Angular components, templates, services, and routing.
 
-</details>
-
-<p align="center">
-  <b>✦ Learn Continuously. Build Intentionally. Improve Every Day. ✦</b>
-</p>
----
 
 ## `05` — My Development Philosophy 💎
 
